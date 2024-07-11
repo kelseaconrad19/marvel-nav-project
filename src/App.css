@@ -1,0 +1,30 @@
+.App {
+	text-align: center;
+	padding: 20px;
+}
+
+h1 {
+	margin-bottom: 20px;
+}
+
+nav a.active {
+	background-color: #61dafb;
+	color: white;
+}
+
+.character-list {
+	margin-top: 1.6rem;
+}
+
+nav {
+	margin-top: 1.6rem;
+	margin-bottom: 3rem;
+}
+
+.navLink {
+	margin-right: 1rem;
+	background-color: maroon;
+	color: white;
+	padding: 0.5rem 1rem;
+	border-radius: 5px;
+}
